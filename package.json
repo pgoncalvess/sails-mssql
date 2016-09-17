@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node test/integration/runner -R spec -b"
   },
-  "repository": {"type":"git","url":"git://github.com/jaredfromsubway/sails-mssql.git"},
+  "repository": {"type":"git","url":"https://github.com/pgoncalvess/sails-mssql.git"},
   "keywords": [
     "sails-mssql",
     "adapter",
@@ -17,11 +17,12 @@
   	"sqlserver",
     "plugin"
   ],
-  "author": "jaredfromsubway",
+  "author": "pgoncalvess",
   "contributors":[
 	"balderdashy",
 	"Stuart Welham",
-	"wxactly"
+	"wxactly",
+  "jaredfromsubway"
   ],
   "license": "MIT",
   "readmeFilename": "README.md",
