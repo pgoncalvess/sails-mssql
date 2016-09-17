@@ -1,5 +1,5 @@
 {
-  "name": "sails-mssql",
+  "name": "mssql4sails",
   "version": "0.10.0",
   "description": "sails-mssql adapter for Sails / Waterline",
   "main": "lib/adapter.js",
